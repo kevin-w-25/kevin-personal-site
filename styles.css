@@ -130,6 +130,7 @@ img { max-width: 100%; display: block; }
 .hero-sub {
   font-size: 15px; color: var(--ink-dim);
   letter-spacing: .22em; margin-bottom: 34px;
+  line-height: 2;
 }
 .hero-intro {
   font-family: var(--serif);
