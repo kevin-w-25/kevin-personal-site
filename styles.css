@@ -405,6 +405,10 @@ main { position: relative; z-index: 1; }
   margin-bottom: 6px; letter-spacing: .03em; line-height: 1.6;
 }
 .story-list p { font-size: 14.5px; color: var(--ink-dim); }
+.story-note {
+  font-size: 12px; color: var(--ink-faint);
+  letter-spacing: .06em; margin-top: 22px; text-align: center;
+}
 
 /* ---------- 06 写作 ---------- */
 .writing-grid {
